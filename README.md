@@ -46,27 +46,10 @@
 
 登录界面：
 
-![QQ_1731241574342](https://bu.dusays.com/2024/11/10/6730a6c9366ae.png)
+<img src="https://bu.dusays.com/2024/11/10/6730a6c9366ae.png" alt="登录界面" width="300" height="200">
+<img src="https://bu.dusays.com/2024/11/10/6730a6cd13fa7.png" alt="注册界面" width="300" height="200">
+<img src="https://bu.dusays.com/2024/11/10/6730a6d7e5454.png" alt="聊天界面1" width="600" height="420">
+<img src="https://bu.dusays.com/2024/11/10/6730a6de97621.png" alt="聊天界面2" width="600" height="420">
 
-
-
-
-
-
-![QQ_1731241581378](https://bu.dusays.com/2024/11/10/6730a6cd13fa7.png)
-
-
-
-
-
-![QQ_1731241532323](https://bu.dusays.com/2024/11/10/6730a6d7e5454.png)
-
-
-![QQ_1731241557194](https://bu.dusays.com/2024/11/10/6730a6de97621.png)
-
-
-
-
-
-
+> 说明: fork 的这位大佬: [](https://github.com/cswen-scut/chatroom)，我在此基础上改进和修改，加注释
 
